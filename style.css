@@ -1,0 +1,21 @@
+/*
+Theme Name: yoko-villaanna
+Description: villa anna child theme for yoko 
+Author: Marvin Steadfast
+Template: yoko
+*/
+
+@import url("../yoko/style.css");
+
+@import url(http://fonts.googleapis.com/css?family=Average);
+
+#site-title h1 {
+        margin: 0 10px 0 0;
+        font-size: 2.1em;
+        line-height:1.2;
+        font-weight: bold;
+        display: block;
+        float: left;
+	font-family: 'Average', serif;
+}
+
